@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Test Page</h1>
+    <h1>Test Page One</h1>
   </div>
 </template>
 
